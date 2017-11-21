@@ -1,0 +1,6 @@
+Joe,000000
+Nick,000100
+Andrew,000320
+Chris,000001
+Matt,000234
+George,010000
